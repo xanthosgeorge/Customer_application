@@ -1,0 +1,17 @@
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\bin\Debug\Customer_application.exe
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\bin\Debug\Customer_application.pdb
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.CustomerForm.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.MainForm.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.ProductForm.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.ProductTypeForm.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.Properties.Resources.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.csproj.GenerateResource.Cache
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.exe.licenses
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.exe
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.pdb
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.OrderForm.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.CriteriaForm.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.PrintRibbonControllerResources.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.XRDesignRibbonControllerResources.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.XtraReport1.resources
+C:\Users\Xanthos\source\repos\Customer_application\Customer_application\obj\Debug\Customer_application.csprojResolveAssemblyReference.cache
